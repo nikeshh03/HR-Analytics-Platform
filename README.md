@@ -1,1 +1,1 @@
-# HR-Analytics-Platform
+# HR Analytics Platform
